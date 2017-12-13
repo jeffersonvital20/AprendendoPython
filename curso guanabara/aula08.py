@@ -1,6 +1,5 @@
-from math import sqrt
+import math
 
-num = int(input('Digite um número: '))
-raiz = sqrt(num)
-print('A raiz de {} é igual a {:.3f}'.format(num, raiz))
-
+num = int(input('digite um numero?'))
+raiz = math.sqrt(num)
+print('A raiz de {} é {}'.format(num,raiz))
