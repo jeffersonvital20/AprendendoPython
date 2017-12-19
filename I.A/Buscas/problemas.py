@@ -1,6 +1,5 @@
 from Graph import *
 
-
 class problemas:
 
     def main(self):
